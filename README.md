@@ -31,8 +31,6 @@ Organizadores del meetup:
 
 ## Sponsors
  - Belatrix
- - [more](https://cdn.meme.am/cache/instances/folder18/32142018.jpg)
-
 
 ## Grupo en Facebook 
 [Android Dev Perú - Grupo](https://www.facebook.com/groups/androidpe/)
