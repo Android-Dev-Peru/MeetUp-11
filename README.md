@@ -9,9 +9,9 @@ Github [source](https://github.com/Bruno125/Unofficial-Ups)
 
 Slide [URL](https://github.com/Bruno125/Unofficial-Ups/blob/master/Developing%20a%20Fan%20Made%20Version%20of%20My%20University's%20App.key)
 
-- **Model View Presenter MVP**  por Pablo Johnson Rojas 
+- **Model View Presenter MVP**  por Pablo [Johnson Rojas](https://github.com/pablo-johnson) 
 
-Github [source](#)
+Github [source](https://github.com/pablo-johnson/peruvian-poetry)
 
 Slide [URL](#)
 
