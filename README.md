@@ -7,13 +7,13 @@ Meetup #11
 
 Github [source](https://github.com/Bruno125/Unofficial-Ups)
 
-Slide [URL](https://github.com/Bruno125/Unofficial-Ups/blob/master/Developing%20a%20Fan%20Made%20Version%20of%20My%20University's%20App.key)
+Slide [URL](https://speakerdeck.com/bruno125/developing-a-fan-made-version-of-my-universitys-app)
 
 - **Model View Presenter MVP**  por Pablo [Johnson Rojas](https://github.com/pablo-johnson) 
 
 Github [source](https://github.com/pablo-johnson/peruvian-poetry)
 
-Slide [URL](#)
+Slide [URL](https://speakerdeck.com/pjohnson/mvp-talk)
 
 - **Hackeando una app android en vivo** por Hansy Schmitt Camacho
 
